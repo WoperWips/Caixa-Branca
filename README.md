@@ -65,3 +65,5 @@ Erro SQL → 11 → 10
 2. Ajustar `DB_URL`, `DB_USER`, `DB_PASS` no `User.java` ou (melhor) ler via variáveis de ambiente.
 3. Compilar e rodar testes unitários que chamem `verificarUsuario(...)`.
 
+## 8) Tabela 
+<img width="773" height="597" alt="image" src="https://github.com/user-attachments/assets/dedd2b3e-1b38-4f80-aee6-00f5fa129f2a" />
