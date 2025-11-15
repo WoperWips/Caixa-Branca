@@ -7,9 +7,6 @@ Analisar estaticamente o código `User.java` que valida login de usuário no ban
 
 ## Arquivos no repositório
 - `src/login/User.java` — código fonte (versão corrigida e comentada)
-- `planilha_caixa_branca.xlsx` — planilha com a análise estática (respostas)
-- `grafo_fluxo.png` — imagem do grafo de fluxo (opcional)
-- `README.md` — este arquivo
 
 ---
 
@@ -28,8 +25,6 @@ Nós mapeados:
 1 → 2 → 3 → 4 → 5 → 6 → 7 → [se true] → 8 → 9 → 10
                                             [se false] → 10
 Erro SQL → 11 → 10
-
-(Diagrama em `grafo_fluxo.png`)
 
 ---
 
