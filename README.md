@@ -6,7 +6,8 @@ Analisar estaticamente o código `User.java` que valida login de usuário no ban
 ---
 
 ## Arquivos no repositório
-- `src/login/User.java` — código fonte (versão corrigida e comentada)
+- `src/login/User.java` — código fonte (versão original)
+- `src/login/UserCorrigido.java` — código fonte (versão corrigida e comentada)
 
 ---
 
